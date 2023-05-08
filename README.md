@@ -1,10 +1,10 @@
 # Code_Estoque
-Programa de Gerenciamento de Produto
+#Programa de Gerenciamento de Produto
 Este é um programa simples em Java para gerenciar produtos e seus dados, como nome, preço e quantidade em estoque.
 
 O programa usa a classe Product para representar os produtos e seus atributos. A classe possui métodos para atualizar o nome, preço, quantidade em estoque e exibir os dados do produto.
 
-Como usar
+#Como usar
 Ao executar o programa, o usuário deve inserir os dados do produto: nome e preço. Em seguida, o programa criará uma instância da classe Product com esses dados e exibirá as informações na tela.
 
 O usuário pode então atualizar o nome e/ou preço do produto, adicionar ou remover produtos do estoque e verificar as informações atualizadas.

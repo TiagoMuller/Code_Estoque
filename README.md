@@ -33,6 +33,10 @@ Product
 This class represents a product and contains the following attributes:
 
 name (String): the name of the product
+
 price (Double): the price of the product
+
 quantity (Integer): the quantity of the product in stock
+
 The class also contains methods to update the name, price, and quantity of the product, as well as add and remove products from the stock.
+
